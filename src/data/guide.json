@@ -1,0 +1,64 @@
+[
+  {
+    "point": true,
+    "number": 1,
+    "content": " I. Busque las primeras letras del apellido del autor en la tabla Cutter-Sanborn. Use solo la letra en negrita que se muestra en la combinación y el número al lado (es decir, A757 para Arnold, Margaret; K49 para Kimball, John; L676 para Lewis, Sinclair; S869 para Stoddard, Solomon. )"
+  },
+  {
+    "point": false,
+    "content": " Los siguientes ejemplos indican cómo cuatro libros, todos sobre la Segunda Guerra Mundial, por cuatro autores diferentes (Arnold, Kimball, Lewis y Stoddard) sería marcado - con 940.54 como número de clasificación; y A757, K49, L676 y S869 como respectivos números de Cutter-Sanborn."
+  },
+  {
+    "point": true,
+    "number": 2,
+    "content": "2. Ocasionalmente, no habrá ningún número que se ajuste exactamente a un nombre. En ese caso utilice el número anterior. Por ejemplo: Andrews, Helen tendría menos de A566 (Andrews, E.) que es el número anterior; no bajo A567 (Andrews, J.) el siguiente número."
+  },
+  {
+    "point": true,
+    "number": 3,
+    "content": "3. Cuando dos autores comparten el mismo número, es recomendable agregar un dígito. Un buen número para seleccionar es 5, ya que hay espacio en ambos lados para más interpolación según sea necesario. Por ejemplo: un libro que ya está en la colección de Richard Colby sería C686. Un nuevo libro que se agregará al mismo número de clasificación. por otro autor llamado Colby necesitaría un número de autor diferente. Un libro de Simeon Colby podría ser C6865. Esto deja espacio para la inserción de autores adicionales entre Richard y Simeon - utilizando C6862, C6863 y C6864. (Es mejor evitar usar I y 9, si es posible, ya que el uso de cualquiera significaría pasando a una quinta figura cuando hubo que insertar otro autor. ) Para acomodar un libro de John Colby, sería necesario ir al número anterior, que es C685. En este caso, es aconsejable agregar un dígito como C6855, ya que un autor comienza con Colbu causaría un conflicto"
+  },
+  {
+    "point": true,
+    "number": 4,
+    "content": "4. Para propósitos de estantería, los números de Cutter-Sanborn dentro de cualquier la clase debe considerarse como un arreglo decimal. Por ejemplo: C685, C6855, C686, C6862, etc. (No C685, C686, C6855, C6862.)"
+  },
+  {
+    "point": true,
+    "number": 5,
+    "content": " 5. Una marca de trabajo se utiliza para distinguir diferentes títulos del mismo autor. Esta es una letra tomada de la primera palabra clave del título. Así: el cuaderno de un escritor por Maugham sería designado M449w; y Of Human Bondage sería M449o."
+  },
+  {
+    "point": false,
+    "content": "En el caso de autores voluminosos, el uso de dos letras para la marca de obra es aconsejable. Así: David Copperfield de Dicken sería D548da y Dombey and Son D548do. (Nota: se utiliza una letra minúscula o letras para la marca de trabajo, en lugar de una letra mayúscula. Es imperativo que se use un guión 1 para que no haya confusión con el número 1."
+  },
+  {
+    "point": false,
+    "content": "En el caso de libros en serie, del mismo autor, todos en la misma clasificación y comenzando con la misma palabra, como Cómo dibujar ... de Zaidenberg, está Es aconsejable utilizar palabras clave para la marca de trabajo. Por ejemplo: Cómo dibujar dibujos animados sería Z21hc; y Cómo dibujar personas sería Z21hp. (Este método evita marcas de trabajo excesivamente largas, como h, ho, how, howt. )"
+  },
+  {
+    "point": true,
+    "number": 6,
+    "content": "6. Se debe evitar el uso de cero, porque se confunde fácilmente con el letra 0. Es por eso que no se usan ceros en la tabla."
+  },
+  {
+    "point": true,
+    "number": 7,
+    "content": "7. Los nombres que comienzan con Mc, M 'y Mac se tratan como si fueran deletreado Mac. Por tanto, McClellan sería M126 y M'Clintock sería M127."
+  },
+  {
+    "point": true,
+    "number": 8,
+    "content": "8. Las tablas Cutter-Sanborn se adaptan especialmente bien a la ficción. Libros de los autores con apellidos similares se ubican más fácilmente en el estante si hay un número en la columna vertebral. Por ejemplo: Low sería L912 y Lowe L913."
+  },
+  {
+    "point": true,
+    "number": 9,
+    "content": "9. Muy a menudo, una entrada principal está bajo el título, e. gramo. publicaciones periódicas, obras anónimas, publicaciones gubernamentales, almanaques, enciclopedias, etc. En este caso, el número de CutterSanborn se toma de la primera palabra del título (excluyendo los artículos). ejemplo sería S888 para La historia de los sabios; World Almanac sería W927. (Por supuesto, no hay marca de trabajo)."
+  },
+  {
+    "point": true,
+    "number": 10,
+    "content": "10. Para que todas las biografías de la misma persona estén juntas en el estante, el nmero de Cutter-Sanborn se toma del nombre del biografo, no del autor. Todas las biografías de Lincoln estarían bajo L736. La marca de trabajo en este caso es no del título sino de la primera letra del apellido del autor. Así: Charnwood's La biografía de Lincoln sería L736c. Cuando hay muchos libros sobre una persona, a veces es necesario el uso de una segunda letra. Por ejemplo: biografía de Current de Lincoln sería L736cu."
+  }
+]
